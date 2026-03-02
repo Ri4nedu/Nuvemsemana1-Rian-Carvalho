@@ -7,3 +7,8 @@
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
 - (escreva 1-3 linhas)
+# Semana 2 - GET + POST
+## O que foi feito
+- API de consumo
+
+
