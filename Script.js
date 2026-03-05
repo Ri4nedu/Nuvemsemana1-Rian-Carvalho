@@ -70,3 +70,6 @@ show("Erro no POST: " + err.message);
 }
 btnGet.addEventListener("click", httpGetWeather);
 btnPost.addEventListener("click", httpPostSimulado);
+const cityEl = document.getElementById("city");
+const btnCity = document.getElementById("btnCity");
+const cityOut = document.getElementById("cityOut");
